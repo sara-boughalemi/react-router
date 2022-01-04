@@ -15,7 +15,7 @@ function MainNavbar({ movieName, handelSearch, rating , handleRating ,handelModa
           <Navbar.Brand href="#home">movies</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#features">Features</Nav.Link>
+            <Nav.Link href="#features">About</Nav.Link>
             <Nav.Link href="#pricing">Pricing</Nav.Link>
             <div style={{display:"flex",marginLeft:"70px"}}>
             <ReactStars
